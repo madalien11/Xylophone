@@ -1,6 +1,7 @@
 # myxylophoneflutter
 
-A new Flutter application.
+Xylophone - A Simple Musical Instrument App using Flutter and Dart package as "audioplayers 0.15.1"
+Online course by: https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
 
 ## Getting Started
 
